@@ -15,3 +15,6 @@ Transfers start out in a "pending" status. They can be executed and go to a "com
 Pass the tests. They are deliberatively vague; your design is up to you! Read the test output and test files very carefully to get through this one. 
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/oo-banking'>OO Banking</a> on Learn.co and start learning to code for free.</p>
+
+isaac_bank_account = BankAccount.new(balance)
+# balance = 100
